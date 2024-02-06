@@ -1,0 +1,11 @@
+git init
+git remote add origin 'link del repo'
+git add .
+git commit -m "mensaje"
+git push
+
+
+
+en la notebook
+
+git clone 'link del repo'
